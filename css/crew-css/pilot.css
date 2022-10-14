@@ -1,0 +1,11 @@
+.crew-nav a:nth-child(2){
+    background-color: #fff;
+    width: 13px;
+    height: 13px;
+ }
+@media (max-width:934px) {
+   
+    img{width:366px;
+    height: 450px;
+    }
+ }
